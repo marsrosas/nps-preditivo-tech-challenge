@@ -63,7 +63,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias e bibliotecas:
 * Os resultados reforçam o potencial da Ciência de Dados como ferramenta de apoio à tomada de decisão, contribuindo para a melhoria da experiência do cliente e para o aumento da fidelização.
 
 ## Autora
-**Grupo 68
-Marselle Rosas da Silva** | rosas_mars@hotmail.com | rm375622
+**Grupo 68**
+**Marselle Rosas da Silva** | rosas_mars@hotmail.com | rm375622
 
 Projeto desenvolvido como parte do **Tech Challenge – Fase 1** da pós-graduação em **AI Scientist**.
