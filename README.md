@@ -17,6 +17,8 @@ nps-preditivo-tech-challenge/
 ├── reports/
 │   ├── relatorio_predicao_nps.pdf
 │   └── apresentacao_nps.pdf
+├── video/
+│   └── apresentacao_nps.mp4
 └── README.md
 ```
 
@@ -50,6 +52,11 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias e bibliotecas:
 3. Faça o upload do arquivo `desafio_nps_fase_1.csv` para o ambiente do Google Colab.
 
 4. Execute as células do notebook na ordem em que foram desenvolvidas para reproduzir a análise exploratória e a construção do modelo preditivo.
+
+## Apresentação
+A apresentação utilizada neste projeto está disponível na pasta `reports/`, por meio do arquivo `apresentacao_nps.pdf`.
+
+O vídeo da apresentação encontra-se na pasta `video/`, no arquivo `apresentacao_nps.mp4`. Caso o vídeo não seja reproduzido diretamente no GitHub, basta fazer o download do arquivo para assisti-lo localmente.
 
 ## Principais resultados
 * A análise exploratória identificou que **atraso na entrega**, **quantidade de reclamações**, **contatos com o atendimento** e **tempo de resolução de problemas** são os fatores com maior influência na satisfação dos clientes.
